@@ -1,4 +1,5 @@
-div.date-posts, div.post > h3.post-title {
+
+div.date-posts, h3.post-title a, h3.post-title {
     background-color: #EFEFEF;
     color: #232323;
 }
