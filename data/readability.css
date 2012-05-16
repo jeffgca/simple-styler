@@ -1,0 +1,6 @@
+div.date-posts, div.post > h3.post-title {
+    background-color: #EFEFEF;
+    color: #232323;
+}
+
+div.date-posts { font-size: 115%; }
